@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gerabtc
-- 👀 I’m interested in  Java e banco de dados.
-- 🌱 I’m currently learning  Algoritmo, banco de. dados e Java.
-- 💞️ I’m looking to collaborate on  todos os projetos a fim de ajudar outros iniciantes como eu.
-📫 How to reach me ,  é  só acessar meu perfil no github e me enviar um email: rochagerardus1977@hotmail.com
+- 👀 I’m interested in Java and Databases.
+- 🌱 I’m currently learning Algorit, Databases and Java.
+- 💞️ I’m looking to collaborate on  all projects in order to help other beginners like me.
+📫 How to reach me, just access my profile on github and send me an email: rochagerardus1977@hotmail.com
 
 <!---
 Gerabtc/Gerabtc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
