@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/gerabtc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerabtc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerabtc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gerabtc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerabtc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gera-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Gera-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gera-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Gera-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="right" alt="Gera-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/477198802655379466/973754441218031616">
+  <img align="right" alt="Gera-pic" height="150" style="border-radius:50px;" src="https://github.com/Gerabtc/Gerabtc/blob/main/meu_gif-_1_.gif">
 </div>
  
   ##
