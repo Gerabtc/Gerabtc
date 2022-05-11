@@ -1,8 +1,8 @@
-## - 👋 Hi, I’m @Gerabtc.
-- 👀 I’m interested in Java and Databases.
-- 🌱 I’m currently learning Algorit, Databases and Java.
-- 💞️ I’m looking to collaborate on  all projects in order to help other beginners like me.
-📫 How to reach me, just access my profile on github and send me an email: rochagerardus1977@hotmail.com.
+## 👋 Hi, I’m @Gerabtc.
+- 👀 I’m interested in Java, Android and Databases.
+- 🌱 I’m currently learning Android Mobile, Java and Databases.
+- 💞️ I’m looking to collaborate on all projects in order to help other beginners like me.
+- 📫 How to reach me, just access my profile on github and send me an email: rochagerardus1977@hotmail.com.
 
 <div align="center">
   <a href="https://github.com/gerabtc">
