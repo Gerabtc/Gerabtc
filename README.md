@@ -30,7 +30,7 @@
   <a href = "mailto:rochagerardus1977@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gerardus-fernandes-de-lima-rocha-07a723149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/gerabtc/gerabtc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gerabtc/Gerabtc/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
 
