@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/gerabtc">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gerabtc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerabtc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" width="47%" src="https://github-readme-stats.vercel.app/api?username=gerabtc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerabtc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gera-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -30,8 +30,7 @@
   <a href = "mailto:rochagerardus1977@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gerardus-fernandes-de-lima-rocha-07a723149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Gerabtc/Gerabtc/blob/main/.github/workflows/cobrinha.yml)
- 
+![Snake animation](https://github.com/gerabtc/gerabtc/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 
